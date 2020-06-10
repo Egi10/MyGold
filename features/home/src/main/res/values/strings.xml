@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="image">image</string>
+    <string name="total_emas">Total Emas</string>
+    <string name="total_uang">Total Uang</string>
+    <string name="_0">0</string>
+    <string name="tambah_transaksi">Tambah Transaksi</string>
+    <string name="transaksi_emas">Transaksi Emas</string>
+</resources>

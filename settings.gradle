@@ -1,0 +1,6 @@
+include ':features:home'
+include ':libraries:network'
+include ':libraries:abstraction'
+include ':data'
+include ':app'
+rootProject.name = "My Gold"
