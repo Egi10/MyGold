@@ -1,6 +1,6 @@
-package id.buaja.home.di
+package id.buaja.domain.di
 
-import id.buaja.home.domain.HomeUseCase
+import id.buaja.domain.home.HomeUseCase
 import org.koin.dsl.module
 
 /**

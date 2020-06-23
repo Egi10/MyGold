@@ -3,7 +3,7 @@ package id.buaja.mygold
 import android.app.Application
 import id.buaja.data.di.networkModule
 import id.buaja.data.di.repositoryModule
-import id.buaja.home.di.useCaseModule
+import id.buaja.domain.di.useCaseModule
 import id.buaja.home.di.viewModelModule
 import org.koin.android.ext.koin.androidContext
 import org.koin.android.ext.koin.androidLogger

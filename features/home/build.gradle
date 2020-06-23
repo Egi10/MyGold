@@ -16,5 +16,6 @@ dependencies {
 
     implementation project(":data")
     implementation project(":libraries:abstraction")
+    implementation project(":domain")
 
 }

@@ -1,4 +1,4 @@
-package id.buaja.home.domain
+package id.buaja.domain.home
 
 import id.buaja.abstraction.until.ext.fetchState
 import id.buaja.abstraction.until.ext.responseError

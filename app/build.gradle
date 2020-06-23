@@ -56,4 +56,5 @@ dependencies {
     implementation project(":data")
     implementation project(":libraries:network")
     implementation project(":features:home")
+    implementation project(":domain")
 }

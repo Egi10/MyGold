@@ -1,0 +1,13 @@
+apply from: "$rootDir/common.gradle"
+apply plugin: 'kotlin-android'
+
+dependencies {
+    implementation project(":data")
+    implementation project(":libraries:abstraction")
+
+    def retrofit_version = "2.7.2"
+    // Retrofit
+    implementation "com.squareup.retrofit2:retrofit:$retrofit_version"
+    implementation "com.squareup.retrofit2:converter-gson:$retrofit_version"
+
+}

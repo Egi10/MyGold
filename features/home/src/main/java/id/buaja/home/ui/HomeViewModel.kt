@@ -1,6 +1,5 @@
 package id.buaja.home.ui
 
-import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
@@ -9,7 +8,7 @@ import id.buaja.abstraction.BuildConfig
 import id.buaja.abstraction.until.state.ResultState
 import id.buaja.data.entity.RecordsItem
 import id.buaja.data.entity.SheetsGoldResponse
-import id.buaja.home.domain.HomeUseCase
+import id.buaja.domain.home.HomeUseCase
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
