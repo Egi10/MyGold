@@ -1,8 +1,9 @@
 # MyGold
 Belajar menggunakan simple modular
 
-<ul>
-  <li href="https://insert-koin.io/">Koin</li>
-  <li href="https://developer.android.com/topic/libraries/architecture/viewmodel">View Model</li>
-  <li href="https://developer.android.com/topic/libraries/architecture/livedata">Live Data</li>
-</ul>  
+## Libraries
+* [Retrofit](https://square.github.io/retrofit/)
+* [Koin](https://insert-koin.io/)
+* [View Model](https://developer.android.com/topic/libraries/architecture/viewmodel)
+* [Live Data](https://developer.android.com/topic/libraries/architecture/livedata)
+* [Glide](https://bumptech.github.io/glide/)
